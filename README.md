@@ -1,2 +1,5 @@
-# paes25
-Análisis PAES 2025
+# PAES 2025
+
+Puntaje promedio en la Región Metropolitana
+
+![](images/g1.png)
